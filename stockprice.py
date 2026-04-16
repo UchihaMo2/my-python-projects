@@ -1,3 +1,6 @@
+bash
+pip install yfinance
+
 import yfinance as yf
 
 def get_stock_price(symbol):
